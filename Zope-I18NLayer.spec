@@ -3,7 +3,7 @@ Summary:	Provide multilanguage content support for existing document types
 Summary(pl):	Umo¿liwia tworzenie wielojêzykowych dokumentów w ¶rodowisku Zope
 Name:		Zope-%{zope_subname}
 Version:	0.5.5
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/collective/%{zope_subname}-%{version}.tar.gz
