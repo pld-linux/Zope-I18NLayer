@@ -9,6 +9,7 @@ Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/collective/%{zope_subname}-%{version}.tar.gz
 # Source0-md5:	c665c8dc212c3bd36a62df57fd60994d
 URL:		http://plone.org/Members/longsleep/I18NLayer/
+BuildRequires:  python
 %pyrequires_eq	python-modules
 Requires:	Zope
 Requires:	Zope-CMFPlone
