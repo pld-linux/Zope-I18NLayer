@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 %define		zope_subname	I18NLayer
 Summary:	Provide multilanguage content support for existing document types
 Summary(pl):	Umo¿liwia tworzenie wielojêzykowych dokumentów w ¶rodowisku Zope
