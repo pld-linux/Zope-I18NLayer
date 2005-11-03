@@ -7,7 +7,7 @@ Release:	1
 License:	GPL v2+
 Group:		Development/Tools
 #Source0:	http://dl.sourceforge.net/collective/%{zope_subname}-%{version}.tar.gz
-Source0:	http://puzzle.dl.sourceforge.net/sourceforge/collective/I18NLayer-0.6.0.tar.gz
+Source0:	http://dl.sourceforge.net/collective/I18NLayer-%{version}.tar.gz
 # Source0-md5:	63097d2b464724c381afd3d598233994
 URL:		http://plone.org/Members/longsleep/I18NLayer/
 BuildRequires:	python
