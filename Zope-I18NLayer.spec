@@ -1,6 +1,6 @@
 %define		zope_subname	I18NLayer
 Summary:	Provide multilanguage content support for existing document types
-Summary(pl.UTF-8):   Umożliwia tworzenie wielojęzykowych dokumentów w środowisku Zope
+Summary(pl.UTF-8):	Umożliwia tworzenie wielojęzykowych dokumentów w środowisku Zope
 Name:		Zope-%{zope_subname}
 Version:	0.6.0
 Release:	1
