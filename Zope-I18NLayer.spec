@@ -1,6 +1,6 @@
 %define		zope_subname	I18NLayer
 Summary:	Provide multilanguage content support for existing document types
-Summary(pl):	Umo¿liwia tworzenie wielojêzykowych dokumentów w ¶rodowisku Zope
+Summary(pl.UTF-8):   UmoÅ¼liwia tworzenie wielojÄ™zykowych dokumentÃ³w w Å›rodowisku Zope
 Name:		Zope-%{zope_subname}
 Version:	0.6.0
 Release:	1
@@ -27,9 +27,9 @@ I18NLayer provides a transparent overlay above multiple content
 objects to provide multilanguage content support for existing document
 types.
 
-%description -l pl
-I18NLayer dostarcza mechanizm tworzenia wielojêzykowych dokumentów dla
-produktów Zope.
+%description -l pl.UTF-8
+I18NLayer dostarcza mechanizm tworzenia wielojÄ™zykowych dokumentÃ³w dla
+produktÃ³w Zope.
 
 %prep
 %setup -q -n %{zope_subname}
