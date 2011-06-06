@@ -2,13 +2,13 @@
 Summary:	Provide multilanguage content support for existing document types
 Summary(pl.UTF-8):	Umożliwia tworzenie wielojęzykowych dokumentów w środowisku Zope
 Name:		Zope-%{zope_subname}
-Version:	0.6.0
+Version:	0.7.0
 Release:	1
 License:	GPL v2+
 Group:		Development/Tools
 #Source0:	http://dl.sourceforge.net/collective/%{zope_subname}-%{version}.tar.gz
 Source0:	http://dl.sourceforge.net/collective/I18NLayer-%{version}.tar.gz
-# Source0-md5:	63097d2b464724c381afd3d598233994
+# Source0-md5:	3b01b48fda540e3c3c627738de34ccbb
 URL:		http://plone.org/Members/longsleep/I18NLayer/
 BuildRequires:	python
 BuildRequires:	rpmbuild(macros) >= 1.268
@@ -61,5 +61,4 @@ fi
 
 %files
 %defattr(644,root,root,755)
-%doc CHANGELOG
 %{_datadir}/%{name}
